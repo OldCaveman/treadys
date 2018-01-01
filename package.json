@@ -1,0 +1,22 @@
+{
+  "name": "treadys",
+  "version": "1.0.0",
+  "description": "Wine, bitches",
+  "main": "index.js",
+  "scripts": {
+    "test": "test run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OldCaveman/treadys.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OldCaveman/treadys/issues"
+  },
+  "homepage": "https://github.com/OldCaveman/treadys#readme",
+  "dependencies": {
+    "angular-http-server": "^1.3.1"
+  }
+}
